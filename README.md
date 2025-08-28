@@ -1,2 +1,1 @@
-# hello-world-
-For outputing hello_world.
+# hello-world-we are Nane and Inga
